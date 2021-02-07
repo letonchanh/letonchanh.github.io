@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Ton Chanh Le"
   avatar           : "profile.png"
-  bio              : "Research Scientist, Stevens Institute of Technology"
+  bio              : | Research Scientist
+                       Stevens Institute of Technology"
   location         : 
   employer         :
   pubmed           : 
