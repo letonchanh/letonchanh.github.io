@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Ton Chanh Le"
   avatar           : "profile.png"
-  bio              : "Research Scientist\nabc"
+  bio              : > Research Scientist
+                       Stevens Institute of Technology
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
