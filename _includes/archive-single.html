@@ -26,26 +26,26 @@
       </div>
     {% endif %}
 
-    <p class="archive__item-title" itemprop="headline">
+    <p>
+      <span  class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      <span>
-        {% if post.paperdoi %}
-          <a href="{{ post.paperdoi }}">[DOI]</a>
-        {% endif %}
-        {% if post.paperdoi %}
-          <a href="{{ post.paperdoi }}">[DOI]</a>
-        {% endif %}
-        {% if post.paperpdf %}
-          <a href="{{ post.paperpdf }}">[PDF]</a>
-        {% endif %}
-        {% if post.toolurl %}
-          <a href="{{ post.toolurl }}">[Project]</a>
-        {% endif %}
       </span>
+      {% if post.paperdoi %}
+        <a href="{{ post.paperdoi }}">[DOI]</a>
+      {% endif %}
+      {% if post.paperdoi %}
+        <a href="{{ post.paperdoi }}">[DOI]</a>
+      {% endif %}
+      {% if post.paperpdf %}
+        <a href="{{ post.paperpdf }}">[PDF]</a>
+      {% endif %}
+      {% if post.toolurl %}
+        <a href="{{ post.toolurl }}">[Project]</a>
+      {% endif %}
     </p>
     
     <!-- {% if post.read_time %}
