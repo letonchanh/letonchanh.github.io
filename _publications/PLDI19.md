@@ -5,7 +5,7 @@ permalink: /publications/PLDI19
 venue: PLDI 2019
 date: 2019-10-20
 authors: '<b>Ton Chanh Le</b>, Guolong Zheng, ThanhVu Nguyen'
-proceedings: '<i>Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation</i>'
+proceedings: '<i>The 40th ACM SIGPLAN Conference on Programming Language Design and Implementation</i>'
 confurl: https://conf.researchr.org/home/pldi-2019
 paperpdf: http://letonchanh.github.io/files/pldi19.pdf
 toolurl: https://github.com/letonchanh/sling
