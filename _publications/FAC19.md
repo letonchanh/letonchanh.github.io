@@ -1,7 +1,7 @@
 ---
-title: "Automated mutual induction proof in separation logic"
+title: "Automated Mutual Induction Proof in Separation Logic"
 collection: publications
-permalink: /publications/FAOC19
+permalink: /publications/FAC19
 venue: FAC 2019
 date: 2019-10-11
 authors: 'Quang-Trung Ta, <b>Ton Chanh Le</b>, Siau-Cheng Khoo, Wei-Ngan Chin'
