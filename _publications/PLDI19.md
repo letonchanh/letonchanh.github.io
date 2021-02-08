@@ -1,5 +1,5 @@
 ---
-title: "Specification and inference of trace refinement relations"
+title: "SLING: Using Dynamic Analysis to Infer Program Invariants in Separation Logic"
 collection: publications
 permalink: /publications/PLDI19
 venue: PLDI 2019
