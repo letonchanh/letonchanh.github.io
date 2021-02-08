@@ -32,18 +32,20 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      {% if post.paperdoi %}
-        <a href="{{ post.paperdoi }}">[DOI]</a>
-      {% endif %}
-      {% if post.paperdoi %}
-        <a href="{{ post.paperdoi }}">[DOI]</a>
-      {% endif %}
-      {% if post.paperpdf %}
-        <a href="{{ post.paperpdf }}">[PDF]</a>
-      {% endif %}
-      {% if post.toolurl %}
-        <a href="{{ post.toolurl }}">[Project]</a>
-      {% endif %}
+      <span>
+        {% if post.paperdoi %}
+          <a href="{{ post.paperdoi }}">[DOI]</a>
+        {% endif %}
+        {% if post.paperdoi %}
+          <a href="{{ post.paperdoi }}">[DOI]</a>
+        {% endif %}
+        {% if post.paperpdf %}
+          <a href="{{ post.paperpdf }}">[PDF]</a>
+        {% endif %}
+        {% if post.toolurl %}
+          <a href="{{ post.toolurl }}">[Project]</a>
+        {% endif %}
+      </span>
     </p>
     
     <!-- {% if post.read_time %}
