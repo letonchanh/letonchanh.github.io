@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/OOPSLA20
 venue: OOPSLA 2020
 date: 2020-11-15
-author: '<b>Ton Chanh Le</b>, Timos Antonopoulos, Parisa Fathololumi, Eric Koskinen, ThanhVu Nguyen'
+authors: '<b>Ton Chanh Le</b>, Timos Antonopoulos, Parisa Fathololumi, Eric Koskinen, ThanhVu Nguyen'
 proceedings: '<i>Proceedings of the ACM on Programming Languages 4 (OOPSLA)</i>'
 confurl: https://2020.splashcon.org/track/splash-2020-oopsla
 paperpdf: http://letonchanh.github.io/files/oopsla20.pdf
