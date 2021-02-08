@@ -1,5 +1,5 @@
 ---
-title: "A Proof Slicing Framework for Program Verificatio"
+title: "A Proof Slicing Framework for Program Verification"
 collection: talks
 type: "Oral presentation"
 venue: "ICFEM 2013"
