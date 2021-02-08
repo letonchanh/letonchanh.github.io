@@ -4,8 +4,8 @@ collection: publications
 permalink: /publications/BCC18
 venue: 'BCC@AsiaCCS 2018'
 date: 2018-06-04
-authors: '<b>Ton Chanh Le</b>, Lei Xu, Lin Chen, Weidong Shi:'
-proceedings: '<i>The 2nd ACM Workshop on Blockchains, Cryptocurrencies and Contracts</i>'
+authors: '<b>Ton Chanh Le</b>, Lei Xu, Lin Chen, Weidong Shi'
+proceedings: '<i>The 2nd ACM Workshop on Blockchains, Cryptocurrencies and Contracts, Held In Conjunction With ACM Asia CCS 2018</i>'
 confurl: https://sites.google.com/view/bcc18/home
 paperpdf: http://letonchanh.github.io/files/bcc18.pdf
 ---
