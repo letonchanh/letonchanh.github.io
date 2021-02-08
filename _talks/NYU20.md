@@ -4,5 +4,5 @@ collection: talks
 type: "Invited talk"
 venue: "New York University (NYU), Formal Methods"
 date: 2020-02-12
-location: "New York, New York"
+location: '<span style="text-decoration: line-through;">New York, New York</span>Online'
 ---
