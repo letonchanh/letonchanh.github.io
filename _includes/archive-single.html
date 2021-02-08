@@ -46,6 +46,15 @@
       {% if post.toolurl %}
         <a href="{{ post.toolurl }}">[Project]</a>
       {% endif %}
+      <br />
+      {{ post.authors }}
+      <br />
+      {{ post.proceedings }}. 
+      {% if post.venue and post.confurl %}
+        <a href="{{ post.confurl }}">{{ post.venue }}</a>
+      {% else %}
+        {{ post.avenue }}
+      {% endif %}
     </p>
     
     <!-- {% if post.read_time %}
@@ -65,17 +74,6 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %} -->
-    
-    <p style="display:inline">
-      {{ post.authors }}
-      <br />
-      {{ post.proceedings }}. 
-      {% if post.venue and post.confurl %}
-        <a href="{{ post.confurl }}">{{ post.venue }}</a>
-      {% else %}
-        {{ post.avenue }}
-      {% endif %}
-    </p>
     
     <!-- {% if post.citation and post.paperurl %}
       <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
