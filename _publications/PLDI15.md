@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/PLDI15
 venue: PLDI 2015
 date: 2015-06-13
-authors: '<b>Ton Chanh Le</b>, Guolong Zheng, ThanhVu Nguyen'
+authors: '<b>Ton Chanh Le</b>, Shengchao Qin, Wei-Ngan Chin'
 proceedings: '<i>The 36th annual ACM SIGPLAN conference on Programming Language Design and Implementation</i>'
 confurl: https://pldi15.sigplan.org/
 paperpdf: http://letonchanh.github.io/files/pldi15.pdf
