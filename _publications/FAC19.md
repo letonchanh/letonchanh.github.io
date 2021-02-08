@@ -3,7 +3,7 @@ title: "Automated Mutual Induction Proof in Separation Logic"
 collection: publications
 permalink: /publications/FAC19
 venue: FAC 2019
-date: 2019-10-11
+date: 2018-10-11
 authors: 'Quang-Trung Ta, <b>Ton Chanh Le</b>, Siau-Cheng Khoo, Wei-Ngan Chin'
 proceedings: '<i>Formal Aspects of Computing 31(2)</i>'
 paperpdf: http://letonchanh.github.io/files/fac19.pdf
