@@ -63,6 +63,15 @@
       {% if post.paperdoi %}
         <a href="{{ post.paperdoi }}">[DOI]</a>
       {% endif %}
+      {% if post.paperdoi %}
+        <a href="{{ post.paperdoi }}">[DOI]</a>
+      {% endif %}
+      {% if post.paperpdf %}
+        <a href="{{ post.paperpdf }}">[PDF]</a>
+      {% endif %}
+      {% if post.toolurl %}
+        <a href="{{ post.toolurl }}">[Project]</a>
+      {% endif %}
     </p>
     
     <!-- {% if post.citation and post.paperurl %}
