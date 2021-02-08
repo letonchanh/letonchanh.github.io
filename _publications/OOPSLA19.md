@@ -1,5 +1,5 @@
 ---
-title: "Specification and inference of trace refinement relations"
+title: "Specification and Inference of Trace Refinement Relations"
 collection: publications
 permalink: /publications/OOPSLA19
 venue: OOPSLA 2019
