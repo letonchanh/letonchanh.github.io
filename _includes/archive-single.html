@@ -56,8 +56,8 @@
       {{ post.authors }}
       <br />
       {{ post.proceedings }}. 
-      {% if post.avenue and post.confurl %}
-        <a href="{{ post.confurl }}">{{ post.avenue }}</a>
+      {% if post.venue and post.confurl %}
+        <a href="{{ post.confurl }}">{{ post.venue }}</a>
       {% else %}
         {{ post.avenue }}
       {% endif %}
