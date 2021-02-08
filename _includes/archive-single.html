@@ -53,11 +53,13 @@
     {% endif %} -->
     
     <p>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% endif %}
-      {% if post.confname and post.confurl %}
-        <a href="{{ post.confurl }}">{{ post.confname }}</a>
+      {{ post.authors }}
+      <br />
+      "{{ post.proceedings }}. " 
+      {% if post.avenue and post.confurl %}
+        <a href="{{ post.confurl }}">{{ post.avenue }}</a>
+      {% else %}
+        {{ post.avenue }}
       {% endif %}
       <br />
       {% if post.paperdoi %}
