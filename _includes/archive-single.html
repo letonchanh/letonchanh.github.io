@@ -56,6 +56,9 @@
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
+      {% if post.confname and post.confurl %}
+        <a href="{{ post.confurl }}">{{ post.confname }}</a>
+      {% endif %}
       <br />
       {% if post.paperdoi %}
         <a href="{{ post.paperdoi }}">[DOI]</a>
