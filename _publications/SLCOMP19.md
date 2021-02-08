@@ -8,7 +8,7 @@ authors: 'Mihaela Sighireanu, Juan A Navarro Pérez, Andrey Rybalchenko, Nikos G
 proceedings: '<i>International Conference on Tools and Algorithms for the Construction and Analysis of Systems: TOOLympics (TOOLympics@TACAS)</i>'
 confurl: https://www.irif.fr/~sighirea/sl-comp/19/index.html
 paperpdf: http://letonchanh.github.io/files/oopsla19.pdf
-toolurl: https://github.com/knotical/knotical
+toolurl: https://songbird-prover.github.io/
 ---
 
 ## Abstract
