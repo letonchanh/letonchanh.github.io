@@ -8,6 +8,7 @@ citation: '<b>Ton Chanh Le</b>, Timos Antonopoulos, Parisa Fathololumi, Eric Kos
 confname: OOPSLA 2020
 confurl: https://2020.splashcon.org/track/splash-2020-oopsla
 paperdoi: https://doi.org/10.1145/3428257
+paperpdf: http://letonchanh.github.io/files/oopsla20.pdf
 ---
 
 ## Abstract
