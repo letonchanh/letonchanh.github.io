@@ -2,7 +2,7 @@
 title: "SL-COMP: Competition of Solvers for Separation Logic"
 collection: publications
 permalink: /publications/SLCOMP19
-venue: "SLCOMP 2019"
+venue: "SL-COMP 2019"
 date: 2019-04-06
 authors: 'Mihaela Sighireanu, Juan A Navarro Pérez, Andrey Rybalchenko, Nikos Gorogiannis, Radu Iosif, Andrew Reynolds, Cristina Serban, Jens Katelaan, Christoph Matheja, Thomas Noll, Florian Zuleger, Wei-Ngan Chin, Quang Loc Le, Quang-Trung Ta, <b>Ton-Chanh Le</b>, Thanh-Toan Nguyen, Siau-Cheng Khoo, Michal Cyprian, Adam Rogalewicz, Tomas Vojnar, Constantin Enea, Ondrej Lengal, Chong Gao, Zhilin Wu'
 proceedings: '<i>International Conference on Tools and Algorithms for the Construction and Analysis of Systems: TOOLympics (TOOLympics@TACAS)</i>'
