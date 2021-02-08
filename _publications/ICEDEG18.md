@@ -1,13 +1,13 @@
 ---
 title: "eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization"
 collection: publications
-permalink: /publications/ICDEDG18
-venue: 'ICDEDG 2018'
+permalink: /publications/ICEDEG18
+venue: 'ICEDEG 2018'
 date: 2018-04-04
 authors: 'Nour Diallo, Weidong Shi, Lei Xu, Zhimin Gao, Lin Chen, Yang Lu, Nolan Shah, Larry Carranco, <b>Ton-Chanh Le</b>, Abraham Bez Surez, Glenn Turner'
 proceedings: '<i>International Conference on eDemocracy & eGovernment</i>'
 confurl: https://edem-egov.org/ICEDEG-2018/program
-paperpdf: http://letonchanh.github.io/files/icdedg18.pdf
+paperpdf: http://letonchanh.github.io/files/icedeg18.pdf
 ---
 
 ## Abstract
