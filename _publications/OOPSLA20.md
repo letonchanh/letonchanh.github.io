@@ -7,8 +7,8 @@ date: 2020-11-15
 citation: '<b>Ton Chanh Le</b>, Timos Antonopoulos, Parisa Fathololumi, Eric Koskinen, ThanhVu Nguyen.<br /><i>Proceedings of the ACM on Programming Languages 4 (OOPSLA)</i>.'
 confname: OOPSLA 2020
 confurl: https://2020.splashcon.org/track/splash-2020-oopsla
-paperdoi: https://doi.org/10.1145/3428257
 paperpdf: http://letonchanh.github.io/files/oopsla20.pdf
+toolurl: https://github.com/letonchanh/dynamite
 ---
 
 ## Abstract
