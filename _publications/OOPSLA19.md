@@ -3,7 +3,7 @@ title: "Specification and inference of trace refinement relations"
 collection: publications
 permalink: /publications/OOPSLA19
 venue: OOPSLA 2019
-date: 2019-10-20
+date: 2018-10-20
 authors: 'Timos Antonopoulos, Eric Koskinen, <b>Ton Chanh Le</b>'
 proceedings: '<i>Proceedings of the ACM on Programming Languages, Volume 3, Issue OOPSLA</i>'
 confurl: https://conf.researchr.org/track/splash-2019/splash-2019-oopsla
