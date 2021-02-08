@@ -32,6 +32,18 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.paperdoi %}
+        <a href="{{ post.paperdoi }}">[DOI]</a>
+      {% endif %}
+      {% if post.paperdoi %}
+        <a href="{{ post.paperdoi }}">[DOI]</a>
+      {% endif %}
+      {% if post.paperpdf %}
+        <a href="{{ post.paperpdf }}">[PDF]</a>
+      {% endif %}
+      {% if post.toolurl %}
+        <a href="{{ post.toolurl }}">[Project]</a>
+      {% endif %}
     </p>
     
     <!-- {% if post.read_time %}
@@ -60,19 +72,6 @@
         <a href="{{ post.confurl }}">{{ post.venue }}</a>
       {% else %}
         {{ post.avenue }}
-      {% endif %}
-      <br />
-      {% if post.paperdoi %}
-        <a href="{{ post.paperdoi }}">[DOI]</a>
-      {% endif %}
-      {% if post.paperdoi %}
-        <a href="{{ post.paperdoi }}">[DOI]</a>
-      {% endif %}
-      {% if post.paperpdf %}
-        <a href="{{ post.paperpdf }}">[PDF]</a>
-      {% endif %}
-      {% if post.toolurl %}
-        <a href="{{ post.toolurl }}">[Project]</a>
       {% endif %}
     </p>
     
